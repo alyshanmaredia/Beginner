@@ -18,7 +18,7 @@ namespace Beginner
             }
             int[] arr = new int[2];
    
-            int temp = name + 2;
+            
             char to = (char)temp;
             Console.WriteLine("AI" + to);
 
